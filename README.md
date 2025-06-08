@@ -39,7 +39,7 @@
 - Administrative or root access for installation
 - Reliable internet connection to download Docker images and updates
 
-## Commonly used terminology: Docker Engine, Docker Daemon, Docker Desktop, Dockerhub
+## Commonly used terminology: Docker Engine, Docker Daemon, Docker Desktop, Dockerhub, Docker Registry
 
 ***1. Docker Engine***
 
